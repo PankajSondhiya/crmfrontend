@@ -18,24 +18,24 @@
 # • Diverse User Roles:
 Admins (system oversight) Engineers (manage and resolve tickets and issues) Customers (raise and manage raised tickets).
 
-## • Secure Access:
- # Ensures secure access with AuthN and AuthZ.
+#• Secure Access:
+ Ensures secure access with AuthN and AuthZ.
 
-## • Data Management and UI:
-#Backed by MongoDB for the database, with Express handling APIs, and a user-friendly React frontend.
+# • Data Management and UI:
+Backed by MongoDB for the database, with Express handling APIs, and a user-friendly React frontend.
 
 ## Technologies Used
-# • JavaScript (JS):
+ # • JavaScript (JS):
 The primary programming language used for implementing the application's logic.
 
-## • React:
-# The frontend is developed using React, providing a dynamic and user-friendly interface for seamless interaction.
+# • React:
+ The frontend is developed using React, providing a dynamic and user-friendly interface for seamless interaction.
 
-## • Node.js with Express:
-# Express is employed to build the backend APIs, and Node.js powers the server-side of the application.
+# • Node.js with Express:
+ Express is employed to build the backend APIs, and Node.js powers the server-side of the application.
 
-## • MongoDB:
-#MongoDB serves as the database management system, ensuring scalable and efficient storage for the application's data.
+# • MongoDB:
+MongoDB serves as the database management system, ensuring scalable and efficient storage for the application's data.
 
-##• CSS:
-# Cascading Style Sheets are utilized for styling and layout, enhancing the visual appeal and usability of the application.
+#• CSS:
+ Cascading Style Sheets are utilized for styling and layout, enhancing the visual appeal and usability of the application.
