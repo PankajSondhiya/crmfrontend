@@ -1,6 +1,6 @@
 
 
-### ClientFlow CRM
+# ClientFlow CRM
 
 ## Information
 #ClientFlow CRM is a 3-tier application designed for efficient ticket and issue management. It caters to three distinct user roles: Admins with system oversight, Engineers responsible for ticket resolution, and Customers who can raise and manage their support tickets. The application ensures secure access through robust Authentication (AuthN) and Authorization (AuthZ) mechanisms.
